@@ -323,7 +323,8 @@ p{
     }
 
     .footer{
-        padding: 10px;
+        min-height:200px;
+        padding: 15px 20px;
     }
 
 
